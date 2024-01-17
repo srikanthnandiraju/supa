@@ -1035,7 +1035,7 @@ a {
 }
 .cid-tjSbdXKuMD .mbr-overlay {
   background-color: #353535;
-  opacity: 0.4;
+  opacity: 0.6;
 }
 .cid-tjSbdXKuMD .content-wrap {
   padding: 5rem 1rem;
@@ -1048,7 +1048,7 @@ a {
     justify-content: center;
   }
   .cid-tjSbdXKuMD .content-wrap {
-    width: 51%;
+    width: 86%;
   }
 }
 @media (max-width: 991px) and (min-width: 768px) {
@@ -1078,8 +1078,8 @@ a {
   text-align: center;
 }
 .cid-tjSg8bpLRV {
-  padding-top: 2rem;
-  padding-bottom: 3rem;
+  padding-top: 5rem;
+  padding-bottom: 5rem;
   background-color: #ffffff;
 }
 .cid-tjSg8bpLRV .mbr-fallback-image.disabled {
@@ -1112,7 +1112,7 @@ a {
   justify-content: center;
 }
 .cid-u0VQCXWEyn {
-  padding-top: 3rem;
+  padding-top: 5rem;
   padding-bottom: 0rem;
   background-color: #f3f9ff;
 }
@@ -1140,7 +1140,7 @@ a {
 }
 .cid-u17mj2lDOE {
   padding-top: 0rem;
-  padding-bottom: 2rem;
+  padding-bottom: 5rem;
   background-color: #f3f9ff;
 }
 .cid-u17mj2lDOE .mbr-fallback-image.disabled {
@@ -1170,8 +1170,8 @@ a {
   justify-content: center;
 }
 .cid-u0VRju65sp {
-  padding-top: 3rem;
-  padding-bottom: 3rem;
+  padding-top: 6rem;
+  padding-bottom: 2rem;
   background-color: #ffffff;
 }
 .cid-u0VRju65sp .mbr-fallback-image.disabled {
@@ -1196,10 +1196,15 @@ a {
     width: 100%;
   }
 }
-.cid-u0VSIQV7BS {
-  padding-top: 2rem;
-  padding-bottom: 3rem;
+.cid-u1zWsOn0NR {
+  padding-top: 0rem;
+  padding-bottom: 6rem;
   background-color: #ffffff;
+}
+.cid-u0VSIQV7BS {
+  padding-top: 5rem;
+  padding-bottom: 5rem;
+  background-color: #47b5ed;
 }
 .cid-u0VSIQV7BS img,
 .cid-u0VSIQV7BS .item-img {
@@ -1216,7 +1221,7 @@ a {
 .cid-u0VSIQV7BS .item-wrapper {
   position: relative;
   border-radius: 4px;
-  background: #fafafa;
+  background: #ffffff;
   height: 100%;
   display: flex;
   flex-flow: column nowrap;
@@ -1248,9 +1253,9 @@ a {
   text-align: left;
 }
 .cid-u0VURYRO4c {
-  padding-top: 2rem;
+  padding-top: 5rem;
   padding-bottom: 0rem;
-  background-color: #f3f9ff;
+  background-color: #ffffff;
 }
 .cid-u0VURYRO4c .mbr-fallback-image.disabled {
   display: none;
@@ -1266,8 +1271,8 @@ a {
 }
 .cid-u0VUlePfn7 {
   padding-top: 0rem;
-  padding-bottom: 3rem;
-  background-color: #f3f9ff;
+  padding-bottom: 5rem;
+  background-color: #ffffff;
 }
 .cid-u0VUlePfn7 .mbr-fallback-image.disabled {
   display: none;
@@ -1374,6 +1379,10 @@ a {
   .cid-sFAyHxWQ1N .card-wrapper {
     margin-bottom: 2rem;
   }
+}
+.cid-sFAyHxWQ1N .mbr-text,
+.cid-sFAyHxWQ1N .mbr-section-btn {
+  text-align: center;
 }
 .cid-tjTfjacJk8 {
   padding-top: 6rem;
